@@ -11,8 +11,6 @@ A well-written prompt helps an AI understand exactly what you want. One simple f
 5. Examples
 6. Format
 
-Think of prompting like giving instructions to a new employee. The more clearly you explain the job, the better the results.
-
 ---
 
 # The 6 Parts of a Great Prompt

@@ -1,15 +1,21 @@
-# Prompt Engineering Guide
+# Prompt Engineering LAB
 
 ## Overview
 
 A well-written prompt helps an AI understand exactly what you want. One simple framework is to break every prompt into **six parts**:
 
 1. Persona
+Defines who the AI should be, including its role, expertise, or perspective (e.g., teacher, software engineer, lawyer, copywriter). A clear persona helps shape the knowledge, vocabulary, and approach used in the response.
 2. Context
+Provides the background information the AI needs, such as the situation, goal, target audience, uploaded files, relevant history, or domain-specific details. Good context gives the AI enough information to understand why it's performing the task.
 3. Task
+Clearly states what you want the AI to do, using specific action verbs like write, summarize, compare, analyze, explain, or generate. The task should leave little room for ambiguity.
 4. Constraints
+Defines the rules the AI must follow, including tone (e.g., professional, persuasive, friendly), audience (e.g., executives, customers, students), length, reading level, things to include or avoid, citation requirements, and any other guardrails.
 5. Examples
+Shows the AI what a successful response looks like by providing sample inputs, outputs, templates, or reference documents. Examples help the AI mimic the desired style, structure, or level of detail.
 6. Format
+Specifies how the final response should be organized, such as a business proposal, email, report, table, JSON, bullet list, Markdown document, or presentation with specific headings or sections.
 
 ---
 

@@ -23,7 +23,7 @@ You are a professional copywriter experienced in preparing business proposals fo
 
 </details>
 
-Note: the "<persona>" and "</persona>" are called Delimiters. They are markers used to clearly separate different parts of a prompt, such as instructions, context, examples, or data. They help the AI distinguish between sections, reducing ambiguity and improving the accuracy of the response. Other than XML tags (<persona>) you can also use triple quotes ("""), and clearly labeled headings (=== Persona ===).
+Note: the "< persona >" and "< /persona >" are called Delimiters. They are markers used to clearly separate different parts of a prompt, such as instructions, context, examples, or data. They help the AI distinguish between sections, reducing ambiguity and improving the accuracy of the response. Other than XML tags (< persona >) you can also use triple quotes ("""), and clearly labeled headings (=== Persona ===).
 
 ---
 

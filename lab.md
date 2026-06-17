@@ -3,43 +3,20 @@
 ## Overview
 
 A well-written prompt helps an AI understand exactly what you want. One simple framework is to break every prompt into **six parts**:
+In this lab, You will create a prompt that - along with the documents Provided to you - you will later use to Prompt Chat Gpt to create a Proposal to Improve Collaboration Between Sales and Marketing Teams. You will look into the individual parts and connect them to form your final prompt. you can access the examples but Try writing your own prompt using the framework before looking at the examples.
 
-1. Persona
-Defines who the AI should be, including its role, expertise, or perspective (e.g., teacher, software engineer, lawyer, copywriter). A clear persona helps shape the knowledge, vocabulary, and approach used in the response.
-2. Context
-Provides the background information the AI needs, such as the situation, goal, target audience, uploaded files, relevant history, or domain-specific details. Good context gives the AI enough information to understand why it's performing the task.
-3. Task
-Clearly states what you want the AI to do, using specific action verbs like write, summarize, compare, analyze, explain, or generate. The task should leave little room for ambiguity.
-4. Constraints
-Defines the rules the AI must follow, including tone (e.g., professional, persuasive, friendly), audience (e.g., executives, customers, students), length, reading level, things to include or avoid, citation requirements, and any other guardrails.
-5. Examples
-Shows the AI what a successful response looks like by providing sample inputs, outputs, templates, or reference documents. Examples help the AI mimic the desired style, structure, or level of detail.
-6. Format
-Specifies how the final response should be organized, such as a business proposal, email, report, table, JSON, bullet list, Markdown document, or presentation with specific headings or sections.
 
----
-
-# The 6 Parts of a Great Prompt
 
 ## 1. Persona
 
-**Question:** Who is the AI?
+Defines who the AI should be, including its role, expertise, or perspective (e.g., teacher, software engineer, lawyer, copywriter). A clear persona helps shape the knowledge, vocabulary, and approach used in the response.
 
-Give the AI a role or identity. This helps establish expertise and perspective.
-
-Examples:
-- A software engineer
-- A history teacher
-- A career coach
-- A professional editor
-
-> Think: "Who should the AI pretend to be?"
 
 <details>
 <summary>💡 Example</summary>
 
 ```
-You are a senior software engineer with 10 years of experience mentoring junior developers.
+You are a professional copywriter experienced in preparing business proposals for senior management.
 ```
 
 </details>
@@ -48,23 +25,16 @@ You are a senior software engineer with 10 years of experience mentoring junior 
 
 ## 2. Context
 
-**Question:** What is the situation?
+Provides the background information the AI needs, such as the situation, goal, target audience, uploaded files, relevant history, or domain-specific details. Good context gives the AI enough information to understand why it's performing the task.
 
-Provide the background information the AI needs to understand the problem.
+for this case your relevant data is within the files Marketing_Campaign_Results.pdf and Sales_Performance_Report_Q1_2026.pdf
 
-Include:
-- The goal
-- Relevant information
-- Audience
-- Current situation
-
-> Think: "What does the AI need to know before it starts?"
 
 <details>
 <summary>💡 Example</summary>
 
 ```
-I'm preparing for a technical interview next week. I've been studying Python for six months and struggle with recursion.
+Use the data from the uploaded reports as the primary source of information when preparing your proposal.
 ```
 
 </details>
@@ -73,11 +43,9 @@ I'm preparing for a technical interview next week. I've been studying Python for
 
 ## 3. Task
 
-**Question:** What should the AI do?
+Clearly states what you want the AI to do, using specific action verbs like write, summarize, compare, analyze, explain, or generate. The task should leave little room for ambiguity.
 
-State the job clearly and directly.
-
-Good task verbs:
+Example task verbs:
 - Explain
 - Write
 - Summarize
@@ -86,13 +54,12 @@ Good task verbs:
 - Generate
 - Improve
 
-> Think: "What exactly do I want?"
 
 <details>
 <summary>💡 Example</summary>
 
 ```
-Explain recursion in simple language and provide three practice problems.
+Write a proposal for senior management recommending ways to improve collaboration between the Sales and Marketing teams.
 ```
 
 </details>
@@ -101,26 +68,15 @@ Explain recursion in simple language and provide three practice problems.
 
 ## 4. Constraints
 
-**Question:** What rules should the AI follow?
+Defines the rules the AI must follow, including tone (e.g., professional, persuasive, friendly), audience (e.g., executives, customers, students), length, reading level, citation requirements, and any other guardrails.
 
-Constraints help narrow the response.
-
-Examples:
-- Tone
-- Length
-- Reading level
-- Things to avoid
-- Style
-
-> Think: "What should the response look or sound like?"
 
 <details>
 <summary>💡 Example</summary>
 
 ```
-Keep the explanation under 300 words.
-Use beginner-friendly language.
-Avoid advanced mathematical notation.
+Use a Professional, objective, and persuasive tone. The proposal should: Identify the root causes of poor collaboration, Explain how these issues are affecting productivity; revenue; customer satisfaction; or other business outcomes, Support each major point with evidence from the uploaded files, Clearly cite which uploaded source each piece of evidence came from.
+
 ```
 
 </details>
@@ -129,28 +85,15 @@ Avoid advanced mathematical notation.
 
 ## 5. Examples
 
-**Question:** Can you show the AI what you want?
+Shows the AI what a successful response looks like by providing sample inputs, outputs, templates, or reference documents. Examples help the AI mimic the desired style, structure, or level of detail.
 
-Examples are one of the most powerful prompting techniques because they demonstrate the expected style or structure.
-
-You can provide:
-- Sample input/output
-- Desired writing style
-- Templates
-
-> Think: "Can I show instead of just tell?"
+In this case you will Provide the example file "Proposal_Implementing_a_Company_Wide_Cybersecurity_Awareness_Training_Program.pdf" asn an example of what you would want your output to look like. But you can also specify the example without incerting you own by leveraging the LLM's training for example specifying a Desired writing style such as that Martin Luther King.
 
 <details>
 <summary>💡 Example</summary>
 
 ```
-Example:
-
-Question:
-What is a variable?
-
-Answer:
-A variable is like a labeled box where you can store information to use later in your program.
+Use the uploaded file "Proposal_Implementing_a_Company_Wide_Cybersecurity_Awareness_Training_Program.pdf" only as an example of the desired writing style and overall proposal structure. Do not copy its content.
 ```
 
 </details>
@@ -159,38 +102,20 @@ A variable is like a labeled box where you can store information to use later in
 
 ## 6. Format
 
-**Question:** How should the answer be organized?
+Specifies how the final response should be organized, such as a business proposal, email, report, table, JSON, bullet list, Markdown document, or presentation with specific headings or sections.
 
-Specify how you want the output presented.
-
-Examples:
-- Bullet list
-- Numbered steps
-- Markdown
-- Table
-- JSON
-- Essay
-- Email
-
-> Think: "What should the finished product look like?"
 
 <details>
 <summary>💡 Example</summary>
 
 ```
-Return your answer as:
-
-# Summary
-
-## Key Ideas
-
-- ...
-
-## Practice Problems
-
-1.
-2.
-3.
+Format the proposal using the following sections:
+Executive Summary
+Current Challenges
+Analysis
+Recommendations
+Expected Outcomes
+Conclusion
 ```
 
 </details>
@@ -205,42 +130,9 @@ A complete prompt combines all six parts.
 <summary>💡 Complete Example Prompt</summary>
 
 ```
-Persona:
-You are an experienced Python instructor.
 
-Context:
-I'm preparing for my first programming interview and have been learning Python for six months.
-
-Task:
-Teach me recursion and give me practice exercises.
-
-Constraints:
-Keep the explanation beginner-friendly.
-Limit it to about 500 words.
-Avoid unnecessary jargon.
-
-Examples:
-Explain concepts using simple analogies.
-
-Format:
-Use Markdown with headings, bullet points, and a numbered list of exercises.
 ```
 
 </details>
 
----
 
-# Challenge
-
-Try writing your own prompt using the framework before looking at the examples.
-
-| Part | Your Answer |
-|------|-------------|
-| Persona | |
-| Context | |
-| Task | |
-| Constraints | |
-| Examples | |
-| Format | |
-
-Once you've finished, compare your answers with the hidden examples above.

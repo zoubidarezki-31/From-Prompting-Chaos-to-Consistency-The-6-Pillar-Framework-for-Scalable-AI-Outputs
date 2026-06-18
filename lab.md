@@ -33,6 +33,9 @@ Provides the background information the AI needs, such as the situation, goal, t
 
 for this case your relevant data is within the files Marketing_Campaign_Results.pdf and Sales_Performance_Report_Q1_2026.pdf
 
+[Sales_Performance_Report_Q1_2026.pdf](https://github.com/zoubidarezki-31/From-Prompting-Chaos-to-Consistency-The-6-Pillar-Framework-for-Scalable-AI-Outputs/edit/main/lab.md#:~:text=README.md-,Sales_Performance_Report_Q1_2026,-.pdf)
+[Marketing_Campaign_Results.pdf](https://github.com/zoubidarezki-31/From-Prompting-Chaos-to-Consistency-The-6-Pillar-Framework-for-Scalable-AI-Outputs/edit/main/lab.md#:~:text=Marketing_Campaign_Results.-,pdf,-Proposal_%20Implementing%20a)
+
 
 <details>
 <summary>💡 Example</summary>
@@ -99,6 +102,8 @@ Shows the AI what a successful response looks like by providing sample inputs, o
 
 In this case you will Provide the example file "Proposal_Implementing_a_Company_Wide_Cybersecurity_Awareness_Training_Program.pdf" as an example of what you would want your output to look like. 
 An example does not always have to be a file or text that you provide. You can also describe the style or format you want the AI to emulate by referencing something it is likely to recognize. For example, you could ask the AI to "write in the style of a formal business proposal" or "use clear, persuasive language similar to a TED Talk.", implement the same writing style such as that Martin Luther King. This allows you to guide the output even when you don't have a sample example.
+
+[Proposal_Implementing_a_Company_Wide_Cybersecurity_Awareness_Training_Program.pdf](https://github.com/zoubidarezki-31/From-Prompting-Chaos-to-Consistency-The-6-Pillar-Framework-for-Scalable-AI-Outputs/edit/main/lab.md#:~:text=Proposal_%20Implementing%20a-,Company,-%2DWide%20Cybersecurity%20Awareness)
 
 <details>
 <summary>💡 Example</summary>

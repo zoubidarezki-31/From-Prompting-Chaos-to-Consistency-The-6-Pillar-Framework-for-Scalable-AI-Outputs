@@ -19,5 +19,17 @@ https://chatgpt.com/?utm_source=google&utm_medium=paid_search&utm_campaign=GOOG_
 
 <img width="1726" height="992" alt="image" src="https://github.com/user-attachments/assets/5e2815a9-8c71-489d-a887-680cb9232798" />
 
+<img width="1727" height="992" alt="image" src="https://github.com/user-attachments/assets/1b636f33-97f9-426f-8e74-24b52ea1c37f" />
 
 <img width="1728" height="992" alt="image" src="https://github.com/user-attachments/assets/637548d8-1efc-47be-8ac1-1e0bac5d16a3" />
+
+<img width="1728" height="993" alt="image" src="https://github.com/user-attachments/assets/df37bda4-1c2d-40c3-9ad8-a8ca74ebfccf" />
+
+<img width="1728" height="993" alt="image" src="https://github.com/user-attachments/assets/65b9a1ea-ea55-4bb6-a6e1-c230bc6a986c" />
+
+<img width="1727" height="992" alt="image" src="https://github.com/user-attachments/assets/f85edbbe-c3a3-4fa4-84ce-275180ed0058" />
+
+<img width="1728" height="992" alt="image" src="https://github.com/user-attachments/assets/3428bad8-fd6c-4752-bd76-d2c6e9f40d19" />
+
+<img width="1728" height="993" alt="image" src="https://github.com/user-attachments/assets/bb176db8-319b-4cdb-9b7a-39f4ce5fa9ae" />
+

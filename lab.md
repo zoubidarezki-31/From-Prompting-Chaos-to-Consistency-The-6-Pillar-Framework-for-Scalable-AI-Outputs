@@ -34,6 +34,7 @@ Provides the background information the AI needs, such as the situation, goal, t
 for this case your relevant data is within the files Marketing_Campaign_Results.pdf and Sales_Performance_Report_Q1_2026.pdf
 
 [Sales_Performance_Report_Q1_2026.pdf](https://github.com/zoubidarezki-31/From-Prompting-Chaos-to-Consistency-The-6-Pillar-Framework-for-Scalable-AI-Outputs/edit/main/lab.md#:~:text=README.md-,Sales_Performance_Report_Q1_2026,-.pdf)
+
 [Marketing_Campaign_Results.pdf](https://github.com/zoubidarezki-31/From-Prompting-Chaos-to-Consistency-The-6-Pillar-Framework-for-Scalable-AI-Outputs/edit/main/lab.md#:~:text=Marketing_Campaign_Results.-,pdf,-Proposal_%20Implementing%20a)
 
 

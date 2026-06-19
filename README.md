@@ -30,11 +30,14 @@ the text entry field where you can upload files view the plus button on the left
 
 <img width="1728" height="991" alt="image" src="https://github.com/user-attachments/assets/2de381c9-2776-4e39-9225-26ccbbad7da5" />
 
-<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/6f345fde-99e1-4214-a3a0-2e77a7585d9f" />
-
+lets test it out by asking it a simple question :
 <img width="1725" height="991" alt="image" src="https://github.com/user-attachments/assets/fa849000-13f7-403c-8811-186e86629e9c" />
 
+once you have typed in your question. submit it using the white button to the left as defined bellow.
+
 <img width="1726" height="992" alt="image" src="https://github.com/user-attachments/assets/5e2815a9-8c71-489d-a887-680cb9232798" />
+
+<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/6f345fde-99e1-4214-a3a0-2e77a7585d9f" />
 
 <img width="1727" height="992" alt="image" src="https://github.com/user-attachments/assets/1b636f33-97f9-426f-8e74-24b52ea1c37f" />
 

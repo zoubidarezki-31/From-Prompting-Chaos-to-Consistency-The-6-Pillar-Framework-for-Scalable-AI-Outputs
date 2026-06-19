@@ -47,11 +47,8 @@ here you can select pin, which will add a pinned section to the left sidebar
 
 in the side bar click the library button. this will contain any files you have uploaded in past chats to chat gpt using the plus sign button to the left of the text feild we saw earlier
 
-<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/6f345fde-99e1-4214-a3a0-2e77a7585d9f" />
-
 <img width="1727" height="992" alt="image" src="https://github.com/user-attachments/assets/1b636f33-97f9-426f-8e74-24b52ea1c37f" />
 
-<img width="1728" height="992" alt="image" src="https://github.com/user-attachments/assets/637548d8-1efc-47be-8ac1-1e0bac5d16a3" />
 at the top left side you will see that you can either view all files or only view images or files
 
 <img width="1728" height="993" alt="image" src="https://github.com/user-attachments/assets/df37bda4-1c2d-40c3-9ad8-a8ca74ebfccf" />
@@ -78,3 +75,6 @@ at the top right there is a search bar where you can look up files by name
 <img width="1728" height="991" alt="image" src="https://github.com/user-attachments/assets/60717e50-cbe1-4928-b841-2351eb78b5ee" />
 
 
+<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/6f345fde-99e1-4214-a3a0-2e77a7585d9f" />
+
+<img width="1728" height="992" alt="image" src="https://github.com/user-attachments/assets/637548d8-1efc-47be-8ac1-1e0bac5d16a3" />

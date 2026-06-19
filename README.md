@@ -50,11 +50,10 @@ in the side bar click the library button. this will contain any files you have u
 <img width="1727" height="992" alt="image" src="https://github.com/user-attachments/assets/1b636f33-97f9-426f-8e74-24b52ea1c37f" />
 
 at the top left side you will see that you can either view all files or only view images or files
+<img width="1728" height="993" alt="image" src="https://github.com/user-attachments/assets/65b9a1ea-ea55-4bb6-a6e1-c230bc6a986c" />
 
-<img width="1728" height="993" alt="image" src="https://github.com/user-attachments/assets/df37bda4-1c2d-40c3-9ad8-a8ca74ebfccf" />
 
 to the right hand side you will see the funnel button where you can furthure filter based on pdf presentations spread sheets images and documents and weather they were uploaded or generated with chat GPT as well as recently deleted documents 
-<img width="1728" height="993" alt="image" src="https://github.com/user-attachments/assets/65b9a1ea-ea55-4bb6-a6e1-c230bc6a986c" />
 
 <img width="1727" height="992" alt="image" src="https://github.com/user-attachments/assets/f85edbbe-c3a3-4fa4-84ce-275180ed0058" />
 

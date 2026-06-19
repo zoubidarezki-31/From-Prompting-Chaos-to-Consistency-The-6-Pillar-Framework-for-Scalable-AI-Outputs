@@ -37,6 +37,16 @@ once you have typed in your question. submit it using the white button to the le
 
 <img width="1726" height="992" alt="image" src="https://github.com/user-attachments/assets/5e2815a9-8c71-489d-a887-680cb9232798" />
 
+After Chat Gpt answeared your question Navigate to the 3 dots on the top right hand section on the screen: 
+
+<img width="1727" height="995" alt="image" src="https://github.com/user-attachments/assets/cfb81fca-8e6d-43ed-920f-b9955999db18" />
+
+here you can select pin, which will add a pinned section to the left sidebar   
+
+<img width="1728" height="989" alt="image" src="https://github.com/user-attachments/assets/7aea9cfd-358e-4c21-8015-b17ff853348c" />
+
+
+
 <img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/6f345fde-99e1-4214-a3a0-2e77a7585d9f" />
 
 <img width="1727" height="992" alt="image" src="https://github.com/user-attachments/assets/1b636f33-97f9-426f-8e74-24b52ea1c37f" />

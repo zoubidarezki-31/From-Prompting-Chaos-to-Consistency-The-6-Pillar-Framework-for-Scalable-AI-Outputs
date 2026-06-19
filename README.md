@@ -73,7 +73,7 @@ at the top right there is a search bar where you can look up files by name
 
 <img width="1728" height="991" alt="image" src="https://github.com/user-attachments/assets/60717e50-cbe1-4928-b841-2351eb78b5ee" />
 
-
+back to the side bar click the section that says projects
 <img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/6f345fde-99e1-4214-a3a0-2e77a7585d9f" />
 
-<img width="1728" height="992" alt="image" src="https://github.com/user-attachments/assets/637548d8-1efc-47be-8ac1-1e0bac5d16a3" />
+<img width="1865" height="915" alt="image" src="https://github.com/user-attachments/assets/a696424c-cd7d-4df0-99d3-d80098c797bc" />

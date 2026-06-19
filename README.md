@@ -2,6 +2,8 @@
 
 In this settup guide we will focus on getting familiar with the Chat Gpt Layout in preperation for the lab. If you already have a chat GPT account feel free to skip this setup guide.
 
+##Section 1
+
 Please start by creating a Chat GPT account if you dont already have one by right clicking the link below and opening it in a new tab.   
 
 [Chat GPT](https://chatgpt.com/?utm_source=google&utm_medium=paid_search&utm_campaign=GOOG_C_SEM_GNB_Core-Thematic_CHT_BAU_ACQ_PER_BRD_ALL_NAMER_US_EN_112624&c_id=21957315043&c_agid=170788222069&c_crid=723092045958&c_kwid=kwd-1884437950226&c_ims=&c_pms=9193836&c_nw=g&c_dvc=c&gad_source=1&gad_campaignid=21957315043&gbraid=0AAAAA-I0E5esqLvkNwW4XkK-q1G93BEag&gclid=CjwKCAjw6MPRBhBTEiwAd-7Mr3YDGVJCzDlNlrkFn1v12jJqzMcoYlGbORweiaMdyEEItSD8dksqZhoC-HgQAvD_BwE)
@@ -16,12 +18,18 @@ you can either sign up with email, google account, Apple, or Phone. click whiche
 
 once you're signend up you will be directed to yur User interface. the rest of this guide will be to familiarize you with the layout and different parts of this User interface. 
 
+##Section 2
+
+"turn on temporary chat button"
+
 <img width="1728" height="989" alt="image" src="https://github.com/user-attachments/assets/14c0102d-dd3b-4195-b1f3-dce9a99868ca" />
+
+the text entry field where you can upload files view the plus button on the left hand side and type in your questions/tasks for chat gpt into the "ask anything" feild
+
+<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/ae448e78-a8d4-47f4-accf-1cf0047b4de7" />
 
 <img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/6f345fde-99e1-4214-a3a0-2e77a7585d9f" />
 
-
-<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/ae448e78-a8d4-47f4-accf-1cf0047b4de7" />
 
 <img width="1728" height="991" alt="image" src="https://github.com/user-attachments/assets/2de381c9-2776-4e39-9225-26ccbbad7da5" />
 

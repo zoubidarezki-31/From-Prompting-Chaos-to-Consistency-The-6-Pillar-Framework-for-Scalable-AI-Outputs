@@ -28,10 +28,9 @@ the text entry field where you can upload files view the plus button on the left
 
 <img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/ae448e78-a8d4-47f4-accf-1cf0047b4de7" />
 
-<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/6f345fde-99e1-4214-a3a0-2e77a7585d9f" />
-
-
 <img width="1728" height="991" alt="image" src="https://github.com/user-attachments/assets/2de381c9-2776-4e39-9225-26ccbbad7da5" />
+
+<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/6f345fde-99e1-4214-a3a0-2e77a7585d9f" />
 
 <img width="1725" height="991" alt="image" src="https://github.com/user-attachments/assets/fa849000-13f7-403c-8811-186e86629e9c" />
 

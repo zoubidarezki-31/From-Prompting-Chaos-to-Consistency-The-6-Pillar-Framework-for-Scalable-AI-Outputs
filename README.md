@@ -59,16 +59,21 @@ at the top left side you will see that you can either view all files or only vie
 to the right hand side you will see the funnel button where you can furthure filter based on pdf presentations spread sheets images and documents and weather they were uploaded or generated with chat GPT as well as recently deleted documents 
 <img width="1728" height="993" alt="image" src="https://github.com/user-attachments/assets/65b9a1ea-ea55-4bb6-a6e1-c230bc6a986c" />
 
-you can also choose to view your files either as a list by clicking the list button 
 <img width="1727" height="992" alt="image" src="https://github.com/user-attachments/assets/f85edbbe-c3a3-4fa4-84ce-275180ed0058" />
 
-or a grid by clicking the grid button
+you can also choose to view your files either as a list by clicking the list button 
+
 
 <img width="1728" height="992" alt="image" src="https://github.com/user-attachments/assets/3428bad8-fd6c-4752-bd76-d2c6e9f40d19" />
 
-at the top right there is a search bar where you can look up files by name
+or a grid by clicking the grid button
+
+
 
 <img width="1728" height="993" alt="image" src="https://github.com/user-attachments/assets/bb176db8-319b-4cdb-9b7a-39f4ce5fa9ae" />
+
+at the top right there is a search bar where you can look up files by name
+
 
 <img width="1728" height="991" alt="image" src="https://github.com/user-attachments/assets/60717e50-cbe1-4928-b841-2351eb78b5ee" />
 

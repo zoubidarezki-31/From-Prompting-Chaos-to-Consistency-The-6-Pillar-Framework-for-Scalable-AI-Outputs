@@ -44,6 +44,8 @@ Defines who the AI should be, including its role, expertise, or perspective (e.g
 You are a professional copywriter experienced in preparing business proposals for senior management.
 </persona>
 ```
+<img width="1865" height="916" alt="image" src="https://github.com/user-attachments/assets/e262c4ec-2bc5-4d45-a285-6470887860fe" />
+
 
 </details>
 

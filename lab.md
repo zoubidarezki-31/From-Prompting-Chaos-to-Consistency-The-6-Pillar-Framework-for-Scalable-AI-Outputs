@@ -27,10 +27,9 @@ In this lab, You will create a prompt that - along with the documents Provided t
 
 You will look into the individual parts and connect them to form your final prompt. you can access the examples but Try writing your own prompt using the framework before looking at the examples.
 
-As we go through the lab you will paste the different parts into the search the text entry 
+As we go through the lab you will paste the different parts into the "Ask Anything" text entry field
 
-<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/ae448e78-a8d4-47f4-accf-1cf0047b4de7" />
-
+<img width="1728" height="991" alt="image" src="https://github.com/user-attachments/assets/2de381c9-2776-4e39-9225-26ccbbad7da5" />
 
 ## 1. Persona
 

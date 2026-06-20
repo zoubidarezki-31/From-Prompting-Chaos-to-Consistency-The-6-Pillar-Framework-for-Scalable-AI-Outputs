@@ -27,13 +27,13 @@ In this lab, You will create a prompt that - along with the documents Provided t
 
 You will look into the individual parts and connect them to form your final prompt. you can access the examples but Try writing your own prompt using the framework before looking at the examples.
 
-As we go through the lab you will paste the different parts into the "Ask Anything" text entry field
+As we go through the lab you will paste the different parts into the "Ask Anything" text entry field. we will submit at the end of the lab
 
 <img width="1728" height="991" alt="image" src="https://github.com/user-attachments/assets/2de381c9-2776-4e39-9225-26ccbbad7da5" />
 
 ## 1. Persona
 
-Defines who the AI should be, including its role, expertise, or perspective (e.g., teacher, software engineer, lawyer, copywriter). A clear persona helps shape the knowledge, vocabulary, and approach used in the response.
+Defines who the AI should be, including its role, expertise, or perspective (e.g., teacher, software engineer, lawyer, copywriter). A clear persona helps shape the knowledge, vocabulary, and approach used in the response. click the "💡 Example" drop down bellow 
 
 
 <details>
@@ -44,10 +44,13 @@ Defines who the AI should be, including its role, expertise, or perspective (e.g
 You are a professional copywriter experienced in preparing business proposals for senior management.
 </persona>
 ```
-<img width="1865" height="916" alt="image" src="https://github.com/user-attachments/assets/e262c4ec-2bc5-4d45-a285-6470887860fe" />
-
-
 </details>
+
+<details>
+<summary>Click here to see what your UI should look like</summary>
+<img width="1865" height="916" alt="image" src="https://github.com/user-attachments/assets/e262c4ec-2bc5-4d45-a285-6470887860fe" />
+</details>
+
 
 Note: the "< persona >" and "< /persona >" are called Delimiters. They are markers used to clearly separate different parts of a prompt, such as instructions, context, examples, or data. They help the AI distinguish between sections, reducing ambiguity and improving the accuracy of the response. Other than XML tags (< persona >) you can also use triple quotes ("""), and clearly labeled headings (=== Persona ===).
 
@@ -65,6 +68,13 @@ You can Click on the following blue links to get Download PDFs:
 
 [Marketing_Campaign_Results.pdf](https://github.com/zoubidarezki-31/From-Prompting-Chaos-to-Consistency-The-6-Pillar-Framework-for-Scalable-AI-Outputs/blob/main/Marketing_Campaign_Results.pdf)
 
+you can upload them by clicking the + sign to the left of the "Ask Anything" text entry field
+
+<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/ae448e78-a8d4-47f4-accf-1cf0047b4de7" />
+
+then click add "photos and files"
+<img width="1864" height="916" alt="image" src="https://github.com/user-attachments/assets/92a55137-bcdc-490d-9c05-2353f78150fe" />
+
 
 <details>
 <summary>💡 Example</summary>
@@ -74,6 +84,11 @@ You can Click on the following blue links to get Download PDFs:
 Use the data from the uploaded reports "Marketing_Campaign_Results.pdf" and "Sales_Performance_Report_Q1_2026.pdf" as the primary source of information when preparing your proposal.
 </Context>
 ```
+
+</details>
+<details>
+<summary>Click here to see what your UI should look like</summary>
+<img width="1867" height="916" alt="image" src="https://github.com/user-attachments/assets/fb5e7052-f3a3-4ada-bfb4-1b772c01ccc4" />
 
 </details>
 

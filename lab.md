@@ -2,7 +2,7 @@
 
 
 
-#Section 1
+# Section 1
 
 Please start by creating a Chat GPT account if you dont already have one by right clicking the link below and opening it in a new tab.   
 
@@ -18,7 +18,7 @@ you can either sign up with email, google account, Apple, or Phone. click whiche
 
 once you're signend up you will be directed to yur User interface. the rest of this guide will be to familiarize you with the layout and different parts of this User interface. 
 
-#Section 2
+# Section 2
 
 ## Overview
 

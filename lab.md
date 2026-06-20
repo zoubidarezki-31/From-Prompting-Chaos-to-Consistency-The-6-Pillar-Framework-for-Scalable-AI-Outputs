@@ -119,6 +119,12 @@ Write a proposal for senior management recommending ways to improve collaboratio
 
 </details>
 
+<details>
+<summary>Click here to see what your UI should look like</summary>
+<img width="1922" height="993" alt="image" src="https://github.com/user-attachments/assets/462ea6c8-e13e-4863-8bd4-afc7df13255d" />
+</details>
+
+
 ---
 
 ## 4. Constraints
@@ -136,6 +142,11 @@ Use a Professional, objective, and persuasive tone. The proposal should: Identif
 ```
 
 </details>
+<details>
+<summary>Click here to see what your UI should look like</summary>
+<img width="1918" height="993" alt="image" src="https://github.com/user-attachments/assets/4386d60b-203c-4bad-9937-2a89e2c47d42" />
+
+</details>
 
 ---
 
@@ -149,6 +160,8 @@ An example does not always have to be a file or text that you provide. You can a
 
 [Proposal_Implementing_a_Company_Wide_Cybersecurity_Awareness_Training_Program.pdf](http://github.com/zoubidarezki-31/From-Prompting-Chaos-to-Consistency-The-6-Pillar-Framework-for-Scalable-AI-Outputs/blob/main/Proposal_%20Implementing%20a%20Company-Wide%20Cybersecurity%20Awareness%20Training%20Program.pdf)
 
+Again upload this file the same way you did earlier 
+
 <details>
 <summary>💡 Example</summary>
 
@@ -159,6 +172,13 @@ Use the uploaded file "Proposal_Implementing_a_Company_Wide_Cybersecurity_Awaren
 ```
 
 </details>
+
+<details>
+<summary>Click here to see what your UI should look like</summary>
+<img width="1916" height="992" alt="image" src="https://github.com/user-attachments/assets/f8f433fc-17c1-4023-960c-b582f8602bbe" />
+
+</details>
+
 
 ---
 
@@ -181,6 +201,11 @@ Expected Outcomes
 Conclusion
 </Format>
 ```
+
+</details>
+<details>
+<summary>Click here to see what your UI should look like</summary>
+<img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/60565352-0425-440c-b96f-2b50f1535c3e" />
 
 </details>
 
@@ -227,4 +252,15 @@ Conclusion
 
 </details>
 
+Now you can submit this prompt by clicking the white arrow button 
+<img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/aebc5cbc-dd82-496c-ae7f-61ee01bb01e3" />
+
+once submitted it should look like this:
+<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/c2bdd0a6-f649-49d5-bdfa-860abac8ed42" />
+
+here is the output the LLM gave me:
+<img width="1918" height="990" alt="image" src="https://github.com/user-attachments/assets/5a097ca7-1d6f-4e05-b92b-2e7bfa6a5b16" />
+
+notice how at the top there are 4 buttons the farthest on the left allows you to edit this generated document, the ones on the right allow you to either coppy the content this the button with the overlaping squares, download the file this is the button with the downwards pointing arrow or expand the file this is the button with the two arrows pointing away form each other .
+<img width="1918" height="990" alt="image" src="https://github.com/user-attachments/assets/26e797a5-09f3-4b41-b540-996e9877beac" />
 

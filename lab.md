@@ -23,8 +23,13 @@ once you're signend up you will be directed to yur User interface. the rest of t
 ## Overview
 
 A well-written prompt helps an AI understand exactly what you want. One simple framework is to break every prompt into **six parts**:
-In this lab, You will create a prompt that - along with the documents Provided to you - you will later use to Prompt Chat Gpt to create a Proposal to Improve Collaboration Between Sales and Marketing Teams. You will look into the individual parts and connect them to form your final prompt. you can access the examples but Try writing your own prompt using the framework before looking at the examples.
+In this lab, You will create a prompt that - along with the documents Provided to you - you will later use to Prompt Chat Gpt to create a Proposal to Improve Collaboration Between Sales and Marketing Teams. 
 
+You will look into the individual parts and connect them to form your final prompt. you can access the examples but Try writing your own prompt using the framework before looking at the examples.
+
+As we go through the lab you will paste the different parts into the search the text entry 
+
+<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/ae448e78-a8d4-47f4-accf-1cf0047b4de7" />
 
 
 ## 1. Persona

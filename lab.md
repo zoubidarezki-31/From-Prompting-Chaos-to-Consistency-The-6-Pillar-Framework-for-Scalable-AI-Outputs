@@ -33,7 +33,7 @@ As we go through the lab you will paste the different parts into the "Ask Anythi
 
 ## 1. Persona
 
-Defines who the AI should be, including its role, expertise, or perspective (e.g., teacher, software engineer, lawyer, copywriter). A clear persona helps shape the knowledge, vocabulary, and approach used in the response. click the "💡 Example" drop down bellow 
+Defines who the AI should be, including its role, expertise, or perspective (e.g., teacher, software engineer, lawyer, copywriter). A clear persona helps shape the knowledge, vocabulary, and approach used in the response. click the "💡 Example" drop down bellow to see an example Persona section for this prompt 
 
 
 <details>

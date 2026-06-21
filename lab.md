@@ -22,19 +22,21 @@ Once you've signed up, you'll be taken to the ChatGPT interface.
 
 ## Overview
 
-A well-written prompt helps an AI understand exactly what you want. One simple framework is to break every prompt into **six parts**:
-In this lab, You will create a prompt that - along with the documents Provided to you - you will later use to Prompt Chat Gpt to create a Proposal to Improve Collaboration Between Sales and Marketing Teams. 
+A well-written prompt helps an AI understand exactly what you want. One simple framework is to divide every prompt into six parts.
 
-You will look into the individual parts and connect them to form your final prompt. you can access the examples but Try writing your own prompt using the framework before looking at the examples.
+In this lab, you will create a prompt that—along with the provided documents—you will later use to ask ChatGPT to generate a proposal for improving collaboration between the Sales and Marketing teams.
 
-As we go through the lab you will paste the different parts into the "Ask Anything" text entry field. we will submit at the end of the lab
+Throughout the lab, you'll explore each part of the framework and then combine them into one complete prompt. Feel free to view the examples, but try writing your own version before looking at them.
+
+As you work through the lab, paste each section into the "Ask Anything" text entry field. You'll submit the completed prompt at the end.
 
 <img width="1728" height="991" alt="image" src="https://github.com/user-attachments/assets/2de381c9-2776-4e39-9225-26ccbbad7da5" />
 
 ## 1. Persona
 
-Defines who the AI should be, including its role, expertise, or perspective (e.g., teacher, software engineer, lawyer, copywriter). A clear persona helps shape the knowledge, vocabulary, and approach used in the response. click the "💡 Example" drop down bellow to see an example Persona section for this prompt 
+The Persona defines who the AI should be, including its role, expertise, or perspective (for example, a teacher, software engineer, lawyer, or copywriter). A clear persona helps shape the AI's knowledge, vocabulary, and overall approach.
 
+Click the 💡 Example dropdown below to see an example Persona section for this prompt.
 
 <details>
 <summary>💡 Example</summary>
@@ -52,7 +54,9 @@ You are a professional copywriter experienced in preparing business proposals fo
 </details>
 
 
-Note: the "< persona >" and "< /persona >" are called Delimiters. They are markers used to clearly separate different parts of a prompt, such as instructions, context, examples, or data. They help the AI distinguish between sections, reducing ambiguity and improving the accuracy of the response. Other than XML tags (< persona >) you can also use triple quotes ("""), and clearly labeled headings (=== Persona ===).
+**Note**: The < persona > and </ persona > tags are called delimiters. Delimiters are markers used to clearly separate different parts of a prompt, such as instructions, context, examples, or data. They help the AI distinguish between sections, reducing ambiguity and improving the accuracy of the response.
+
+In addition to XML-style tags (such as < persona >), you can also use triple quotes (""") or clearly labeled headings (for example, === Persona ===).
 
 ---
 

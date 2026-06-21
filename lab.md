@@ -2,7 +2,7 @@
 
 
 
-# Section 1
+# Section 1: Setup
 
 If you don't already have a ChatGPT account, start by creating one. Right-click the link below and open it in a new tab.
 
@@ -18,7 +18,7 @@ You can sign up using your email address, Google account, Apple account, or phon
 
 Once you've signed up, you'll be taken to the ChatGPT interface.
 
-# Section 2
+# Section 2: Tutorial
 
 ## Overview
 

@@ -83,6 +83,7 @@ After downloading the files, upload them to ChatGPT by clicking the + button to 
 Then select "Add photos and files."
 <img width="1864" height="916" alt="image" src="https://github.com/user-attachments/assets/92a55137-bcdc-490d-9c05-2353f78150fe" />
 
+Click the 💡 Example dropdown below to see an example Context section for this prompt.
 
 <details>
 <summary>💡 Example</summary>
@@ -104,16 +105,16 @@ Use the data from the uploaded reports "Marketing_Campaign_Results.pdf" and "Sal
 
 ## 3. Task
 
-Clearly states what you want the AI to do, using specific action verbs like write, summarize, compare, analyze, explain, or generate. The task should leave little room for ambiguity.
+The Task clearly states what you want the AI to do. Use specific action verbs such as write, summarize, compare, analyze, explain, or generate. A well-defined task leaves little room for ambiguity.
 
-Example task verbs:
-- Explain
-- Write
-- Summarize
-- Compare
-- Analyze
-- Generate
-- Improve
+Some example task verbs include:
+  - Explain
+  - Write
+  - Summarize
+  - Compare
+  - Analyze
+  - Generate
+  - Improve
 
 
 <details>
@@ -137,7 +138,7 @@ Write a proposal for senior management recommending ways to improve collaboratio
 
 ## 4. Constraints
 
-Defines the rules the AI must follow, including tone (e.g., professional, persuasive, friendly), audience (e.g., executives, customers, students), length, reading level, citation requirements, and any other guardrails.
+The Constraints define the rules the AI must follow, including the tone (for example, professional, persuasive, or friendly), audience, length, reading level, citation requirements, and any other guidelines.
 
 
 <details>
@@ -160,15 +161,21 @@ Use a Professional, objective, and persuasive tone. The proposal should: Identif
 
 ## 5. Examples
 
-Shows the AI what a successful response looks like by providing sample inputs, outputs, templates, or reference documents. Examples help the AI mimic the desired style, structure, or level of detail.
+The Examples section shows the AI what a successful response should look like by providing sample inputs, outputs, templates, or reference documents. Examples help the AI mimic the desired style, structure, and level of detail.
 
+For this exercise, use the file "Proposal_Implementing_a_Company_Wide_Cybersecurity_Awareness_Training_Program.pdf" as an example of the style and structure you want your proposal to follow.
 
-In this case you will Provide the example file "Proposal_Implementing_a_Company_Wide_Cybersecurity_Awareness_Training_Program.pdf" as an example of what you would want your output to look like. 
-An example does not always have to be a file or text that you provide. You can also describe the style or format you want the AI to emulate by referencing something it is likely to recognize. For example, you could ask the AI to "write in the style of a formal business proposal" or "use clear, persuasive language similar to a TED Talk.", implement the same writing style such as that Martin Luther King. This allows you to guide the output even when you don't have a sample example.
+An example does not always have to be a file. You can also describe the style or format you want the AI to emulate. For example, you might ask the AI to:
+
+Write in the style of a formal business proposal.
+Use clear, persuasive language similar to a TED Talk.
+Write using the style of Martin Luther King Jr.
+
+This allows you to guide the output even when you don't have a sample document.
+
+Download and upload this file using the same process you used earlier.
 
 [Proposal_Implementing_a_Company_Wide_Cybersecurity_Awareness_Training_Program.pdf](http://github.com/zoubidarezki-31/From-Prompting-Chaos-to-Consistency-The-6-Pillar-Framework-for-Scalable-AI-Outputs/blob/main/Proposal_%20Implementing%20a%20Company-Wide%20Cybersecurity%20Awareness%20Training%20Program.pdf)
-
-Again upload this file the same way you did earlier 
 
 <details>
 <summary>💡 Example</summary>
@@ -192,8 +199,7 @@ Use the uploaded file "Proposal_Implementing_a_Company_Wide_Cybersecurity_Awaren
 
 ## 6. Format
 
-Specifies how the final response should be organized, such as a business proposal, email, report, table, JSON, bullet list, Markdown document, or presentation with specific headings or sections.
-
+The Format specifies how you want the final response organized. Examples include a business proposal, email, report, table, JSON, bullet list, Markdown document, or presentation with specific headings or sections.
 
 <details>
 <summary>💡 Example</summary>
@@ -221,8 +227,7 @@ Conclusion
 
 # Putting It All Together
 
-A complete prompt combines all six parts.
-
+A complete prompt combines all six components.
 <details>
 <summary>💡 Complete Example Prompt</summary>
 
@@ -260,15 +265,20 @@ Conclusion
 
 </details>
 
-Now you can submit this prompt by clicking the white arrow button 
+Once you've finished building your prompt, click the Submit button (the white arrow).
 <img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/aebc5cbc-dd82-496c-ae7f-61ee01bb01e3" />
 
-once submitted it should look like this:
+After submitting, your conversation should look similar to this:
 <img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/c2bdd0a6-f649-49d5-bdfa-860abac8ed42" />
 
 here is the output the LLM gave me:
 <img width="1918" height="990" alt="image" src="https://github.com/user-attachments/assets/5a097ca7-1d6f-4e05-b92b-2e7bfa6a5b16" />
 
-notice how at the top there are 4 buttons the farthest on the left allows you to edit this generated document, the ones on the right allow you to either coppy the content this the button with the overlaping squares, download the file this is the button with the downwards pointing arrow or expand the file this is the button with the two arrows pointing away form each other .
+Notice the four buttons located at the top of the generated document:
+
+Edit (far left): Edit the generated document.
+Copy: Copy the document to your clipboard.
+Download: Download the document.
+Expand: Open the document in an expanded view for easier reading.
 <img width="1918" height="990" alt="image" src="https://github.com/user-attachments/assets/26e797a5-09f3-4b41-b540-996e9877beac" />
 

@@ -64,28 +64,23 @@ In addition to XML-style tags (such as < persona >), you can also use triple quo
 
 The Context provides the background information the AI needs, such as the situation, goal, target audience, uploaded files, relevant history, or other domain-specific details. Good context gives the AI enough information to understand why it is performing the task.
 
-Download the Source Documents
 
-For this exercise, the information you'll use is contained in the two PDF files below.
+For this exercise, your relevant information is contained in the following files:  
+  - [Sales_Performance_Report_Q1_2026.pdf](https://github.com/zoubidarezki-31/From-Prompting-Chaos-to-Consistency-The-6-Pillar-Framework-for-Scalable-AI-Outputs/blob/main/Sales_Performance_Report_Q1_2026.pdf)
+    
+  - [Marketing_Campaign_Results.pdf](https://github.com/zoubidarezki-31/From-Prompting-Chaos-to-Consistency-The-6-Pillar-Framework-for-Scalable-AI-Outputs/blob/main/Marketing_Campaign_Results.pdf)
 
-Download the PDFs:
-- Right-click each link below and select Open Link in New Tab.
-- In the new tab, click the Download raw file button (the downward-pointing arrow) in the upper-right corner, as shown in the image below.
+
+To download each file:
+
+  - Right-click the file link and select Open Link in New Tab.
+  - In the new tab, click the Download raw file button (the downward-pointing arrow) in the upper-right corner, as shown below.
   <img width="1721" height="940" alt="image" src="https://github.com/user-attachments/assets/d45dd869-ca05-48a1-844b-a048983368ee" />
 
-Download both of the following files:
-  [Sales_Performance_Report_Q1_2026.pdf](https://github.com/zoubidarezki-31/From-Prompting-Chaos-to-Consistency-The-6-Pillar-Framework-for-Scalable-AI-Outputs/blob/main/Sales_Performance_Report_Q1_2026.pdf)
-  
-  [Marketing_Campaign_Results.pdf](https://github.com/zoubidarezki-31/From-Prompting-Chaos-to-Consistency-The-6-Pillar-Framework-for-Scalable-AI-Outputs/blob/main/Marketing_Campaign_Results.pdf)
-
-
-
-
-you can upload them by clicking the + sign to the left of the "Ask Anything" text entry field
-
+After downloading the files, upload them to ChatGPT by clicking the + button to the left of the "Ask Anything" text entry field.
 <img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/ae448e78-a8d4-47f4-accf-1cf0047b4de7" />
 
-then click add "photos and files"
+Then select "Add photos and files."
 <img width="1864" height="916" alt="image" src="https://github.com/user-attachments/assets/92a55137-bcdc-490d-9c05-2353f78150fe" />
 
 
